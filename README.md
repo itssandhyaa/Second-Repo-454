@@ -36,3 +36,7 @@ To set up and run the application locally, follow these steps:
 3. Frontend Setup
 
 Just open **`index.html`** in the browser to run locally.   
+
+```js
+const API_URL = "YOUR_API_GATEWAY_URL";
+```
