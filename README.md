@@ -24,3 +24,9 @@ To set up and run the application locally, follow these steps:
     > Starting server...
     Server listening on http://localhost:3000
     ```
+
+    <h1>📘 Serverless Scientific Calculator </h1>
+<p>
+ This project is a serverless scientific calculator built using HTML, CSS, and JavaScript on the frontend, and AWS services on the backend. The calculator sends user input to an API Gateway endpoint, which triggers an AWS Lambda function that processes all scientific calculations. The results are returned to the frontend, and each calculation is stored in DynamoDB for history tracking. The entire application is hosted and deployed using AWS Amplify, making it fast, scalable, and easy to manage. This project demonstrates how to connect a simple UI to a fully serverless backend using core AWS services.
+ </p>
+ 
