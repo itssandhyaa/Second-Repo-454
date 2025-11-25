@@ -33,3 +33,6 @@ To set up and run the application locally, follow these steps:
 
  - **Scientific Calculations:** Supports trigonometric functions, logarithms, exponentiation, square roots, percentages, factorials, and other advanced operations.
 
+3. Frontend Setup
+
+Just open **`index.html`** in the browser to run locally.   
