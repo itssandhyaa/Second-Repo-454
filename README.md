@@ -32,7 +32,7 @@ To set up and run the application locally, follow these steps:
  <p>
  <ul>
 
- <li>Scientific Calculations: Supports trigonometric functions, logarithms, exponentiation, square roots, percentages, factorials, and other advanced operations.</li>
+ <li><b>Scientific Calculations</b>: Supports trigonometric functions, logarithms, exponentiation, square roots, percentages, factorials, and other advanced operations.</li>
 
 <li>Serverless Backend: All calculations are processed inside an AWS Lambda function, ensuring high performance without managing servers.</li>
 
