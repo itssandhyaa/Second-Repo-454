@@ -4,8 +4,8 @@ To set up and run the application locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/my-project/my-app.git
-    cd my-app
+    https://github.com/itssandhyaa/Serverless-Scientific-Calculator.git
+    cd Serverless-Scientific-Calculator
     ```
 
 2.  **Install dependencies and build:**
@@ -27,7 +27,7 @@ To set up and run the application locally, follow these steps:
 # 📘 Serverless Scientific Calculator 
 
  This project is a serverless scientific calculator built using HTML, CSS, and JavaScript on the frontend, and AWS services on the backend. The calculator sends user input to an API Gateway endpoint, which triggers an AWS Lambda function that processes all scientific calculations. The results are returned to the frontend, and each calculation is stored in DynamoDB for history tracking. The entire application is hosted and deployed using AWS Amplify, making it fast, scalable, and easy to manage. This project demonstrates how to connect a simple UI to a fully serverless backend using core AWS services.
- 
+
  ## Features
  
 
