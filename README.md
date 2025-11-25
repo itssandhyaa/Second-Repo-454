@@ -40,7 +40,10 @@ Just open **`index.html`** in the browser to run locally.
 ```js
 const API_URL = "YOUR_API_GATEWAY_URL";
 ```
+Update the API Gateway URL in your JavaScript file:
+
 ```javascript
-// Replace the YOUR_API_GATEWAY_URL with your actual Invoke URL from your AWS API Gateway
 const API_URL = "YOUR_API_GATEWAY_URL";
 ```
+
+Replace **YOUR_API_GATEWAY_URL** with the actual Invoke URL from your AWS API Gateway.
